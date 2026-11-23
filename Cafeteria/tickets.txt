@@ -1,0 +1,33 @@
+==============================
+       CAFETERÍA JAVA
+==============================
+Ticket nº: 1
+Cliente: ale
+Camarero: Carlos - Código: C01
+Productos:
+1. Galleta - 1,00 € - Iva: 10,00 x5, IVA = 0.5€ - Total Linea = 5,50 €
+Total: 5,50 €
+==============================
+
+==============================
+       CAFETERÍA JAVA
+==============================
+Ticket nº: 1
+Cliente: ale
+Camarero: Carlos - Código: C01
+Productos:
+1. Croissant frío - 1,70 € - IVA: 10,00 % x3, IVA = 0.51€ - Total Linea = 5,61 €
+Total: 5,61 €
+==============================
+
+==============================
+       CAFETERÍA JAVA
+==============================
+Ticket nº: 1
+Cliente: ale
+Camarero: Carlos - Código: C01
+Productos:
+1. Croissant frío - 1,70 € - IVA: 10,00 % x4, IVA = 0.68€ - Total Linea = 7,48 €
+Total: 7,48 €
+==============================
+

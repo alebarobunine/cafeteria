@@ -1,0 +1,9 @@
+{
+  "cliente" : "ale",
+  "camarero" : "Carlos",
+  "productos" : [ {
+    "nombre" : "Croissant",
+    "precio" : 1.70
+  } ],
+  "total" : 7.48
+}
